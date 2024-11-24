@@ -83,8 +83,8 @@ This project demonstrates how to extract data from a zip file containing multipl
 
 ### **Contact**
 For any questions or issues, please contact:
-  - Name: Your Name
-  - Email: your.email@example.com
+  - Name: Chinta Gagan Susveer
+  - Email: chintagagan@gmail.com
 
 
 
